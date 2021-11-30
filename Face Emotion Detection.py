@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[1]:     1-6 ekjot
 
 
 import pandas as pd
@@ -62,7 +62,7 @@ valImage = np.array(valImage)
 testImage = np.array(testImage)
 
 
-# In[7]:
+# In[7]:    7-11 mohite
 
 
 from tensorflow.keras.models import Sequential      #ML LIBRARY(pre programed model)
@@ -127,7 +127,7 @@ H = model.fit(augmentation.flow(trainImage, trainLabels, batch_size = 32), valid
 #model.fit feeding data to model
 
 
-# In[12]:
+# In[12]: 12-15 me
 
 
 #### Live Emotion Prediction
