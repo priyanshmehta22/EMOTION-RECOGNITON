@@ -10,6 +10,7 @@
   <li>ANOUSHKA SHREESTH</li>
   <li> EKJOT SINGH</li>
   <li>ADITYA MOHITE</li>
+  <li>RASHI PANT</li>
 
 <hr>
 <h3> Libraries Used: </h3>
