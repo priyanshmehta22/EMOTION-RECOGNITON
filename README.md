@@ -11,6 +11,7 @@
   <li> EKJOT SINGH</li>
   <li>ADITYA MOHITE</li>
   <li>RASHI PANT</li>
+  <img src="https://miro.medium.com/max/625/1*YF4KdQE-RadFtNa6n66wdg.gif">
 
 <hr>
 <h3> Libraries Used: </h3>
