@@ -7,7 +7,7 @@
 
 <ol type="1">
   <li><a href= "https://github.com/priyanshmehta22", target="_blank">PRIYANSH MEHTA</a></li>
-  <li><a href="https://github.com/anoushka22", target="_blank">ANOUSHKA SHREESTH</a></li>
+  <li><a href="https://github.com/anoushka22", target="_blank">ANOUSHKA SHRESTH</a></li>
   <li><a href="https://github.com/Ekjot07", target="_blank"> EKJOT SINGH</a></li>
   <li>ADITYA MOHITE</li>
   <li>RASHI PANT</li>
